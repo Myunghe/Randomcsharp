@@ -8,7 +8,7 @@ using System.Collections.Generic;
     {
     static string NameGenerator()
     {
-        string FirstName;
+        string FirstName; //
         string LastName;
         System.Random random = new System.Random();
         List<string> firstName = new List<string>(6) { "Liam", "Noah", "Oliver", "Olivia", "Emma", "Charlotte" };
